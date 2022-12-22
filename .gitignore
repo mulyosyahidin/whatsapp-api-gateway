@@ -1,0 +1,14 @@
+# WebStorm
+.idea
+*.iml
+*.iws
+*.ipr
+
+# Visual Studio Code
+.vscode
+
+# Node JS
+node_modules
+
+# Whatsapp-web.js
+.wwebjs_auth
